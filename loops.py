@@ -6,7 +6,7 @@ print(item_len)
 
 # how to do a for loop in python
 
-to print the items inside the list
+#to print the items inside the list
 for i in items:
 print(i)
 
